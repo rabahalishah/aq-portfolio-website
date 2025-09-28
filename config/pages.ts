@@ -8,7 +8,7 @@ type PagesConfig = {
       title: string;
       description: string;
     };
-    // featuredDescription: string;
+    featuredDescription?: string;
   };
 };
 
@@ -36,8 +36,43 @@ export const pagesConfig: PagesConfig = {
     description: "Professional journey and career timeline.",
     metadata: {
       title: "Experience",
-      description:
-        "Aqdas Fiaz's professional journey and experience timeline.",
+      description: "Aqdas Fiaz's professional journey and experience timeline.",
     },
   },
+  skills: {
+    title: "",
+    description: "",
+    metadata: {
+      title: "",
+      description: ""
+    },
+    featuredDescription: undefined
+  },
+  projects: {
+    title: "",
+    description: "",
+    metadata: {
+      title: "",
+      description: ""
+    },
+    featuredDescription: undefined
+  },
+  contributions: {
+    title: "",
+    description: "",
+    metadata: {
+      title: "",
+      description: ""
+    },
+    featuredDescription: undefined
+  },
+  resume: {
+    title: "",
+    description: "",
+    metadata: {
+      title: "",
+      description: ""
+    },
+    featuredDescription: undefined
+  }
 };

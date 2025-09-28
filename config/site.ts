@@ -1,0 +1,42 @@
+export const siteConfig = {
+  name: "Aqdas Fiaz | HR Portfolio",
+  authorName: "Aqdas Fiaz",
+  username: "aqdasfiaz",
+  description:
+    "Aqdas Fiaz's portfolio - A modern, responsive Next.js portfolio for developers. This open-source template can be customized to showcase your own skills, projects, and professional experience.",
+  url: "https://aqdas.hr.vercel.app/",
+  links: {
+    twitter: "https://x.com/namanbarkiya",
+    github: "https://github.com/namanbarkiya",
+  },
+  ogImage: "https://media.licdn.com/dms/image/v2/D4D03AQGjiSxkuzlXLQ/profile-displayphoto-crop_800_800/B4DZfzDicYHMAY-/0/1752129481485?e=1761782400&v=beta&t=Oz2_t0t_TH9FX8YICTKuXu1umgUKDTy1WX3CyviArV0",
+  iconIco:
+    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357384/assets/naman-favicon.ico",
+  logoIcon:
+    "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
+  keywords: [
+    "Aqdas Fiaz",
+    "Full Stack Developer",
+    "Web Developer Portfolio",
+    "Next.js portfolio template",
+    "React portfolio template",
+    "Developer portfolio template",
+    "Portfolio website template",
+    "Next.js template",
+    "Modern portfolio website",
+    "Frontend developer portfolio",
+    "Full stack developer portfolio",
+    "Open source portfolio template",
+    "Web developer portfolio template",
+    "Responsive portfolio template",
+    "React.js portfolio",
+    "Tailwind CSS portfolio",
+    "Developer showcase template",
+    "Free portfolio template",
+    "Next.js 13 template",
+    "Shadcn UI template",
+    "Career timeline template",
+    "Portfolio with dark mode",
+    "GitHub portfolio template",
+  ],
+};

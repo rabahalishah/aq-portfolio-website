@@ -61,7 +61,9 @@ export type ValidSkills =
   | "SQL"
   | "NoSQL"
   | "Framer Motion"
-  | "Administration" | "Management" | "Communication"
+  | "Administration"
+  | "Management"
+  | "Communication"
   ;
 
 export type ValidCategory =
